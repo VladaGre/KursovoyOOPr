@@ -1,0 +1,63 @@
+c:\users\igor\documents\visual studio 2013\Projects\kur\kur\bin\Debug\kur.exe.config
+c:\users\igor\documents\visual studio 2013\Projects\kur\kur\bin\Debug\kur.exe
+c:\users\igor\documents\visual studio 2013\Projects\kur\kur\bin\Debug\kur.pdb
+c:\users\igor\documents\visual studio 2013\Projects\kur\kur\obj\Debug\kur.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2013\Projects\kur\kur\obj\Debug\kur.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2013\Projects\kur\kur\obj\Debug\kur.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2013\Projects\kur\kur\obj\Debug\kur.exe
+c:\users\igor\documents\visual studio 2013\Projects\kur\kur\obj\Debug\kur.pdb
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\kur\kur\obj\Debug\GeographHandbook.Form1.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\kur\kur\obj\Debug\GeographHandbook.Form2.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\kur\kur\obj\Debug\GeographHandbook.Form3.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\kur\kur\obj\Debug\GeographHandbook.Form4.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\kur\kur\obj\Debug\GeographHandbook.Form5.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\kur\kur\obj\Debug\GeographHandbook.Form6.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\kur\kur\obj\Debug\GeographHandbook.Form7.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\bin\Debug\kur.exe.config
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\bin\Debug\kur.exe
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\bin\Debug\kur.pdb
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form1.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form2.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form3.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form4.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form5.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form6.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form7.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\obj\Debug\kur.Properties.Resources.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.csproj.GenerateResource.Cache
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\obj\Debug\kur.exe
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\GeographHandbook\GeographHandbook\obj\Debug\kur.pdb
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\bin\Debug\kur.exe.config
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\obj\Debug\kur.exe
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\obj\Debug\kur.pdb
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\bin\Debug\kur.exe
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\bin\Debug\kur.pdb
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.csprojResolveAssemblyReference.cache
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form1.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form2.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form3.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form4.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form5.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form6.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form7.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\obj\Debug\kur.Properties.Resources.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.csproj.GenerateResource.Cache
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\Base\kur.exe.config
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\Base\kur.exe
+D:\УНИВЕР\ООПр\КУРСАЧ\GeographHandbook\Base\kur.pdb
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\Base\kur.exe.config
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\GeographHandbook\obj\Debug\kur.exe
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\GeographHandbook\obj\Debug\kur.pdb
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\Base\kur.exe
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\Base\kur.pdb
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.csprojResolveAssemblyReference.cache
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form1.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form2.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form3.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form4.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form5.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form6.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.Form7.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\GeographHandbook\obj\Debug\kur.Properties.Resources.resources
+D:\УНИВЕР\ООПр\КУРСАЧ\Курсовой проект\GeographHandbook\GeographHandbook\obj\Debug\GeographHandbook.csproj.GenerateResource.Cache
