@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kur.AboutProgram" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABEAAACAAAACAAEIAAAAAEAQAABAAAA=</HashCode>
+      <FileName>AboutProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeographHandbook.AddingElement" Collapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yCAQgIAACEgQFGQAACAIAhCIMA5EAgCEPgPAAEDBLA=</HashCode>
+      <FileName>AddingElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeographHandbook.CityInfo" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wAAAAAAACAAABAAAACAAAACCAA4AAAAAHAAAAAAADA=</HashCode>
+      <FileName>CityInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeographHandbook.Country" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJICAAgAAAAAAAEAAACIAgAAAAAAEAQAAAEAAABAM=</HashCode>
+      <FileName>Country.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GeographHandbook.CountryInfo" Collapsed="true">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAABAAAACAAAACCAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>CountryInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeographHandbook.eNode" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAAAAAAAAAAAAAAAgAAAAAAIgAAAAAAAIAAA=</HashCode>
+      <FileName>eNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GeographHandbook.Hesh" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAJAAAAAAAIAAACAAkAAAAIgEgEAAAAACQQAAAoBACA=</HashCode>
+      <FileName>Hesh.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GeographHandbook.MainInterface" Collapsed="true">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAACCAyAECAkAAgCABAAiAAg/AAAAUmEAGAAAAAA=</HashCode>
+      <FileName>MainInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeographHandbook.Mainland" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABICAAAAAAAAAAAAAAAAAgAAAAAAEAAAAAEAADBAE=</HashCode>
+      <FileName>Mainland.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GeographHandbook.MainlandInfo" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainlandInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeographHandbook.MyException" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>MyException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeographHandbook.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeographHandbook.Oblast" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABKCAIAAAAAAAAAAAAAAAgAAAAAAEAAAAAEAAABAE=</HashCode>
+      <FileName>Region.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GeographHandbook.State" BaseTypeListCollapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJKCAIAAAAAAAAAAAAAIAgAAAAAAEAQAAAEAAABAE=</HashCode>
+      <FileName>Region.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GeographHandbook.Provinces" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABKCAIAAAAAAAAAAAAAAAgAAAAAAEAAAAAEAAABAE=</HashCode>
+      <FileName>Region.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.123" />
+  </Class>
+  <Class Name="GeographHandbook.RegionInfo1" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACCAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>RegionInfo1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeographHandbook.RegionInfo2" Collapsed="true">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACCAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>RegionInfo2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeographHandbook.City" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABICAEAAAAAAAAABAgCAAgAAAAAAEAAQAAAAAABAI=</HashCode>
+      <FileName>Сity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GeographHandbook.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeographHandbook.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="GeographHandbook.Coordinates">
+    <Position X="7.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQACAAAAAAAAAAAAAAAAAAAAAAAAAAAAgACAAAA=</HashCode>
+      <FileName>Сity.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="GeographHandbook.Element">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAABAA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GeographHandbook.Region">
+    <Position X="6" Y="1" Width="1.5" />
+    <InheritanceLine Type="GeographHandbook.Element" FixedToPoint="true">
+      <Path>
+        <Point X="4.75" Y="1.901" />
+        <Point X="6" Y="1.901" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Region.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
